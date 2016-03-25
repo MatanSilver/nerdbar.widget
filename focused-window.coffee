@@ -10,9 +10,9 @@ style: """
   color: #D6E7EE
   font: 11px Osaka-Mono
   height: 16px
-  left: 10px
+  left: 90px
   overflow: hidden
   text-overflow: ellipsis
-  top: 6px
+  top: 16px
   width: 500px
 """

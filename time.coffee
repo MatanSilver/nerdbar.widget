@@ -9,6 +9,6 @@ style: """
   -webkit-font-smoothing: antialiased
   color: #458588
   font: 11px Osaka-Mono
-  right: 10px
-  top: 6px
+  right: 100px
+  top: 16px
 """

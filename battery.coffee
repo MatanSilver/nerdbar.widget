@@ -8,8 +8,8 @@ render: (output) ->
 style: """
   -webkit-font-smoothing: antialiased
   font: 10px Osaka-Mono
-  top: 4px
-  right: 145px
+  top: 14px
+  right: 215px
   color: #FABD2F
   span
     color: #9C9486
