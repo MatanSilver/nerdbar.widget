@@ -24,3 +24,5 @@ git clone https://github.com/lavoiesl/osx-cpu-temp
 make
 make install
 ```
+
+And also install the [fontawesome widget](https://github.com/thewellington/fontawesome.widget) to ensure that your status bar can display the FA icons properly.
