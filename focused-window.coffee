@@ -3,7 +3,7 @@ command: "echo $(/usr/local/bin/kwmc read focused)"
 refreshFrequency: 1000 # ms
 
 render: (output) ->
-  "#{output}"
+  "<i class='fa fa-apple'></i> #{output}"
 
 style: """
   -webkit-font-smoothing: antialiased

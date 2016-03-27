@@ -9,7 +9,7 @@ style: """
   -webkit-font-smoothing: antialiased
   color: #D5C4A1
   font: 11px Hack
-  right: 395px
+  right: 418px
   top: 16px
   span
     color: #cc6666
