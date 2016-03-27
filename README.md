@@ -18,8 +18,8 @@ git clone https://github.com/herrbischoff/nerdbar.widget $HOME/Library/Applicati
 
 Clone [osx-cpu-temp](https://github.com/lavoiesl/osx-cpu-temp) with:
 
-'''bash
+```bash
 git clone https://github.com/lavoiesl/osx-cpu-temp
 make
 make install
-'''
+```
